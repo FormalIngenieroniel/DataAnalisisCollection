@@ -2,7 +2,7 @@
 
 This repository serves as a professional portfolio showcasing a comprehensive collection of data analysis and machine learning projects, experiments, and techniques. It is structured to demonstrate proficiency in the complete data science workflow, from foundational data exploration and preprocessing to advanced predictive modeling, time series analysis, and model evaluation.
 
-The entire collection is organized into three distinct learning and project modules: **OPTI**, **OPTII**, and **OPTIII**.
+The entire collection is organized into three distinct learning and project modules: **OPTI**, **OPTII**, and **OPTIII**. In the II and III modules there is a folder called "Proyectos" containing all the knowledge across the different notebooks in each main folder.
 
 ---
 
